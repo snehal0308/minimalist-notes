@@ -1,4 +1,4 @@
-**Note: Under construction**
+**Note: In Progress**
 
 # minimalist-notes
 A notes app made using flask, html/css and bootstarp
